@@ -20,11 +20,11 @@ To install the application, follow these steps:
 To setup the application, follow these steps:
 Admin should open PowerApps and navigate to GetInTouch Application.
 The admin must set the Microsoft Contact details.
-- Navigate to the MS_Contact_Screen 
-- 
+- Navigate to the MS_Contact_Screen and fill in the value for the 2 text inputs (Txt_Name_MS_CntctScrn and Txt_Name_MS_CntctScrn) as communicated by Microsoft.
+
 ![image](https://github.com/YoanSchutte/GetInTouch/assets/117742131/cd4e0b5b-ad46-4163-9a1f-fbbf488ced02)
 
-- Fill in the value for the 2 text inputs (Txt_Name_MS_CntctScrn and Txt_Name_MS_CntctScrn) as communicated by Microsoft.
+
 - Watch the video Admin_GetinTouch for a demo on the setup.
 - Watch the video User_GetinTouch for a demo on how to use the application once deployed in the organization.
 
