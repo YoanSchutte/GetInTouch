@@ -1,5 +1,5 @@
 # GetInTouch
-Welcome to the Power App: GetInTouch! GetInTouch enables you to easily get in touch with your Microsoft Team to faciliate quick communication for deveoping new projects and discovering new technologies. **Please note that this application is not equivalent to reaching Microsoft for Support Requests.** 
+Welcome to the Power App: GetInTouch! GetInTouch enables you to easily get in touch with your Microsoft Team to faciliate quick communication for developing new projects and discovering new technologies. **Please note that this application is not equivalent to reaching Microsoft for Support Requests.** 
  
 ## Table of Contents
 -[Installation](#installation)
