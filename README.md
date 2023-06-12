@@ -37,9 +37,12 @@ The admin must set the Microsoft Contact details.
 ![image](https://github.com/YoanSchutte/GetInTouch/assets/117742131/51676199-f4eb-44db-a66d-a2a29ff2157c)
 
 2. Watch the video Admin_GetinTouch for a demo on the setup.
-3. Select "Publish" from the toolbar of the Application screen
+3. Select "Publish" from the toolbar of the Application screen to publish the application in your organization.
 ![image](https://github.com/YoanSchutte/GetInTouch/assets/117742131/3806870f-1f08-4eea-bd28-c03c6e3172cf)
-4. 
+
+4.Once published, you can share the link or the QR code to share with the users of the application
+![image](https://github.com/YoanSchutte/GetInTouch/assets/117742131/ce3b0509-cd4e-4dc5-9ad7-433feba26b35)
+
 5. Watch the video User_GetinTouch for a demo on how to use the application once deployed in the organization.
 
 ## Contact
