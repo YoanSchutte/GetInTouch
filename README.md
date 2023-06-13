@@ -43,10 +43,12 @@ To setup the application, follow these steps:
  ![image](https://github.com/YoanSchutte/GetInTouch/assets/117742131/c435278c-ee4f-4ad4-8ded-a320b82bf08d)
 
  Share it with everyone in your organisation:
+ 
  ![image](https://github.com/YoanSchutte/GetInTouch/assets/117742131/50e37824-17a2-4ac8-9e1c-7f2a837c8526)
 
- You can share the link or the QR code to share with the users of the application!
- 5. Watch the video User_GetinTouch for a demo on how to use the application once deployed in the organization.
+  You can share the link or the QR code to share with the users of the application!
+  
+5. Watch the video User_GetinTouch for a demo on how to use the application once deployed in the organization.
 
 ## Contact
 If you have any questions or feedback, please contact the dev team:
