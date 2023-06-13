@@ -55,7 +55,7 @@ you can share the link or the QR code to share with the users of the application
 ![image](https://github.com/YoanSchutte/GetInTouch/assets/117742131/ebbe6ec7-98ee-4da2-8b5f-d645c85f1f81)
 
  Click on the three dots next to the application 'GetInTouch' for more options
- ![image](https://github.com/YoanSchutte/GetInTouch/assets/117742131/a6834a21-2787-47ad-9b6d-e13a94dcb730)
+ <img src="[https://user-images.githubusercontent.com/link-to-your-image.png](https://github.com/YoanSchutte/GetInTouch/assets/117742131/a6834a21-2787-47ad-9b6d-e13a94dcb730)" width="30" />
 
 5. Watch the video User_GetinTouch for a demo on how to use the application once deployed in the organization.
 
