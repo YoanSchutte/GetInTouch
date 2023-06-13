@@ -35,19 +35,18 @@ To setup the application, follow these steps:
  ![image](https://github.com/YoanSchutte/GetInTouch/assets/117742131/51676199-f4eb-44db-a66d-a2a29ff2157c)
 
 3. Select 'Publish' from the toolbar of the Application screen to publish the application in your organization.
+
  ![image](https://github.com/YoanSchutte/GetInTouch/assets/117742131/3806870f-1f08-4eea-bd28-c03c6e3172cf)
  
+4. Once published, select 'Share' from the toolbar:
 
-4.Once published, select 'Share' from the toolbar:
  ![image](https://github.com/YoanSchutte/GetInTouch/assets/117742131/c435278c-ee4f-4ad4-8ded-a320b82bf08d)
 
  Share it with everyone in your organisation:
  ![image](https://github.com/YoanSchutte/GetInTouch/assets/117742131/50e37824-17a2-4ac8-9e1c-7f2a837c8526)
 
  You can share the link or the QR code to share with the users of the application!
-
-
-5. Watch the video User_GetinTouch for a demo on how to use the application once deployed in the organization.
+ 5. Watch the video User_GetinTouch for a demo on how to use the application once deployed in the organization.
 
 ## Contact
 If you have any questions or feedback, please contact the dev team:
