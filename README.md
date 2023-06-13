@@ -31,7 +31,6 @@ To install the application, follow these steps:
 ## Setup
 To setup the application, follow these steps:
 1. Navigate to the Solution that was imported and navigate to the Power Application 'GetInTouch'
- ![image](https://github.com/YoanSchutte/GetInTouch/assets/117742131/2bd7f977-2de6-402d-96d8-f5e17c1e9483)
 2. The admin must set the Microsoft Contact details. Navigate to the MS_Contact_Screen and fill in the value for the 2 text inputs (Txt_Name_MS_CntctScrn and  Txt_Name_MS_CntctScrn) as communicated by Microsoft. Watch the video Admin_GetinTouch for a demo on the setup.
 
  ![image](https://github.com/YoanSchutte/GetInTouch/assets/117742131/51676199-f4eb-44db-a66d-a2a29ff2157c)
@@ -40,15 +39,14 @@ To setup the application, follow these steps:
  ![image](https://github.com/YoanSchutte/GetInTouch/assets/117742131/3806870f-1f08-4eea-bd28-c03c6e3172cf)
  
 
-4.Once published, share the application with your organisation:
- Click on 'Share' from the toolbar:
+4.Once published, select 'Share' from the toolbar:
  ![image](https://github.com/YoanSchutte/GetInTouch/assets/117742131/c435278c-ee4f-4ad4-8ded-a320b82bf08d)
 
- Once published, share it with everyone in your organisation
+ Once published, share it with everyone in your organisation:
  ![image](https://github.com/YoanSchutte/GetInTouch/assets/117742131/50e37824-17a2-4ac8-9e1c-7f2a837c8526)
 
- You can share the link or the QR code to share with the users of the application like so:
- ![image](https://github.com/YoanSchutte/GetInTouch/assets/117742131/ce3b0509-cd4e-4dc5-9ad7-433feba26b35)
+ You can share the link or the QR code to share with the users of the application!
+
 
 5. Watch the video User_GetinTouch for a demo on how to use the application once deployed in the organization.
 
